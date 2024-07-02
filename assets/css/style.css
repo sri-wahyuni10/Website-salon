@@ -1076,16 +1076,16 @@ input:checked + label .description {
 }
 
 .card[for="c1"] {
-    background-image: url('assets/images/galery1.jpg');
+    background-image: url('./assets/images/galery1.jpg');
 }
 .card[for="c2"] {
-    background-image: url("assets/images/galery2.jpg");
+    background-image: url("./assets/images/galery2.jpg");
 }
 .card[for="c3"] {
-    background-image: url("assets/images/galery3.jpg");
+    background-image: url("./assets/images/galery3.jpg");
 }
 .card[for="c4"] {
-    background-image: url("assets/images/galery7.jpg");
+    background-image: url("./assets/images/galery7.jpg");
 }
 /*========== Gallery End ==========*/
 
